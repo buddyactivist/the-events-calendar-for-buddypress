@@ -1,0 +1,63 @@
+msgid ""
+msgstr ""
+"Project-Id-Version: The Events Calendar for Buddypress 2.1.0\n"
+"Report-Msgid-Bugs-To: \n"
+"POT-Creation-Date: 2026-03-26 16:40+0100\n"
+"PO-Revision-Date: YEAR-MO-DA HO:MI+ZONE\n"
+"Last-Translator: FULL NAME <EMAIL@ADDRESS>\n"
+"Language-Team: \n"
+"Language: \n"
+"Plural-Forms: nplurals=INTEGER; plural=EXPRESSION;\n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"X-Generator: Manual\n"
+"X-Domain: tecbp\n"
+
+#: tecbp.php:36
+msgid "Eventi"
+msgstr ""
+
+#: tecbp.php:57
+msgid "Crea Nuovo Evento"
+msgstr ""
+
+#: tecbp.php:75
+msgid "Inizio:"
+msgstr ""
+
+#: tecbp.php:84
+msgid "Modifica Evento"
+msgstr ""
+
+#: tecbp.php:89
+msgid "Nessun evento programmato per questo gruppo."
+msgstr ""
+
+#: tecbp.php:99
+msgid "Gruppo BuddyPress Associato"
+msgstr ""
+
+#: tecbp.php:111
+msgid "Seleziona un gruppo:"
+msgstr ""
+
+#: tecbp.php:113
+msgid "-- Nessun Gruppo --"
+msgstr ""
+
+#: tecbp.php:151
+msgid "Gruppo BuddyPress"
+msgstr ""
+
+#: tecbp.php:154
+msgid "Associa al gruppo:"
+msgstr ""
+
+#: tecbp.php:157
+msgid "-- Evento Globale (Nessun Gruppo) --"
+msgstr ""
+
+#: tecbp.php:193
+msgid "Gruppo:"
+msgstr ""
